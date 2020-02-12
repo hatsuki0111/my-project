@@ -8,7 +8,6 @@ import test1 from '@/components/test1'
 import test2 from '@/components/test2'
 import test3 from '@/components/test3'
 
-
 Vue.use(Router)
 Vue.use(BootstrapVue)
 

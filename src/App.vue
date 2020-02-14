@@ -1,7 +1,7 @@
 <template>
   <div id="app" class="body">
     <myheader></myheader>
-    <img src="./assets/icon.png">
+    <img src="./assets/icon.png" loading=lazy>
     <router-view/>
   </div>
 </template>
